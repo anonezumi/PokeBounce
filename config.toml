@@ -1,0 +1,6 @@
+[Debug]
+overrideBattlers = false
+testMoves = false
+battlerOverride = ["Greninja", "Muk", "Kangaskhan"]
+showHitboxes = false
+showCollisionBoxes = false
